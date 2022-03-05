@@ -8,6 +8,11 @@
 
 Hi, my name is Michael, but you can also call me TJ.  I am a full stack developer and recent graduate from Lighthouse Lab's [Web development Bootcamp](https://www.lighthouselabs.ca/en/web-development-bootcamp).
 
+## Stats
+
+[![Mbtj's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbtj&show_icons=true&theme=tokyonight)](https://github.com/mbtj)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbtj&theme=tokyonight)](https://github.com/mbtj)
 
 ## Extra facts
 - 🔭 I’m currently working on cleaning up my projects from lighthouse.
