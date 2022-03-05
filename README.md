@@ -6,6 +6,9 @@
 **Mbtj/mbtj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+Hi, my name is Michael, but you can also call me TJ.  I am a full stack developer and recent graduate from Lighthouse Lab's [Web development Bootcamp](https://www.lighthouselabs.ca/en/web-development-bootcamp).
+
+
 ## Extra facts
 - 🔭 I’m currently working on cleaning up my projects from lighthouse.
 - 🌱 I’m currently learning UI/UX.
