@@ -17,7 +17,7 @@ Hi, my name is Michael, but you can also call me TJ.  I am a full stack develope
 ## Extra facts
 - 🔭 I’m currently working on learning how to build a solid routine.
 - 🌱 I’m currently learning MySQL
-- 👯 I’m looking to collaborate on TypeScript
+- 👯 I’m looking for an internship position in frontend or fullstack development.
 - 🤔 I’m looking for help with UI/UX principles!!
 - 💬 Ask me about effective learning styles
 - 📫 How to reach me: via email: michael.brendan.tj@gmail.com or on linkedin: https://www.linkedin.com/in/tjtaylor-james
