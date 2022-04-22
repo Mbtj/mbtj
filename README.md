@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-![Banner](/mbtj-banner.png)
+![Banner](/banner.png)
 
 <!--
 **Mbtj/mbtj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
