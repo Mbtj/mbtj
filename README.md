@@ -14,7 +14,7 @@ Hi, my name is Michael, but you can also call me TJ.  I am a full stack develope
 ## Extra facts
 - 🔭 I’m currently working on creating a personal blog.
 - 🌱 I’m currently learning Docker & MongoDB!
-- 👯 I’m looking for an internship or Co-op position!!!
+- 👯 I’m looking for a junior front-end role!
 - 🤔 I’m looking for help with UI/UX principles!!
 - 💬 Ask me about effective learning styles
 - 📫 How to reach me: via email: michael.brendan.tj@gmail.com or on linkedin: https://www.linkedin.com/in/tjtaylor-james
